@@ -1,1 +1,1 @@
-# SHIAMCAT
+This project is tested with BrowserStack
